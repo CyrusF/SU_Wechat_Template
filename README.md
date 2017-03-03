@@ -1,0 +1,2 @@
+# SU_Wechat_Template
+UESTC学生会某月总结微信推送模板
